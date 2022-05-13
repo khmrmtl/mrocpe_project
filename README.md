@@ -27,5 +27,10 @@ Tomilas, Christopher<br />
 <img src="/assets/images/flowchart.png" alt="Flowchart" title="Flowchart">
 <br /><br /><br />
 
+## ESP Code Snippet
+<br />
+<img src="/assets/images/code-snapshot.png" alt="Flowchart" title="Flowchart">
+<br /><br /><br />
+
 ## Topher
 <img src="/assets/images/topher.png" alt="Alt text" title="Topher">

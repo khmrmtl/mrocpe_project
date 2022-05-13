@@ -95,10 +95,9 @@ void loop(){
   
   reading = analogRead (water_sensor);
   Serial.println (reading);
-  
-  //&& (millis() - sendDataPrevMillis > 9600 || sendDataPrevMillis == 0) dagdag sa condition sa babab
+   
+  // upload the reading to firebase database
   if (Firebase.ready() && signupOK ){
-    // upload the reading to firebase database
     if (Firebase.RTDB.setFloat(&fbdo, "project/reading", reading )){
       Serial.println("Uploaded to database");
     }
