@@ -1,27 +1,30 @@
 # mrocpe_project
 
 <p align="center">
-A Project Presented to \n
-the Faculty of the\n
-School of Information Technology\n
-University of Baguio\n\n\n
+A Project Presented to <br />
+the Faculty of the<br />
+School of Information Technology<br />
+University of Baguio<br /><br /><br />
 </p>
 
 
 <p align="center">
-In Partial Fulfillment of the Requirements \n
-For the Course of Microprocessor \n
-In Computer Engineering\n
-2022\n\n\n
+In Partial Fulfillment of the Requirements <br />
+For the Course of Microprocessor <br />
+In Computer Engineering<br />
+2022<br /><br /><br />
 </p>
 <p align="center">
-By:\n
-Bistoguey, Jones Mill\n
-Motal, Khmer\n
-Tomilas, Christopher\n
+By:<br />
+Bistoguey, Jones Mill<br />
+Motal, Khmer<br />
+Tomilas, Christopher<br />
 </p>
 
 ## Project Logic
 
 <img src="/assets/images/flowchart.png" alt="Flowchart" title="Flowchart">
+<br /><br /><br />
+
+## Topher
 <img src="/assets/images/topher.png" alt="Alt text" title="Topher">
