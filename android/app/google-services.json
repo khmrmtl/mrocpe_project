@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "816331843260",
+    "firebase_url": "https://testproject-54d36-default-rtdb.firebaseio.com",
+    "project_id": "testproject-54d36",
+    "storage_bucket": "testproject-54d36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816331843260:android:2bacf930c128d87acbd2b9",
+        "android_client_info": {
+          "package_name": "com.example.mrocpe_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816331843260-t7ikfa9hre2ub3c3mdilfo9headh30v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA551bV8X8OuKpkgGFXlLyHL6VH90XhxBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816331843260-t7ikfa9hre2ub3c3mdilfo9headh30v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
